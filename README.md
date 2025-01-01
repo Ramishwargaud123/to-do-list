@@ -1,39 +1,45 @@
-## Hi there! 👋
+# 👋 Hi there! I'm Ramishwar Gaud 
+*Full-Stack Developer | Problem Solver | Tech Enthusiast*  
+I specialize in building *modern web applications* and enjoy solving real-world problems through technology. I have a strong passion for both *Frontend* and *Backend* development and always strive to learn and grow with new technologies.
 
-I'm **Ramishwar Gaud**, a passionate web developer with a knack for creating engaging user experiences. Welcome to my GitHub profile!
+## 💻 Technologies I Use
+### *Frontend*  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+        
+### *Backend*  
+..... ! .....
 
-## About Me
+## 🔴 [Live Demo]( https://Ramishwargaud123.github.io/WEB-SITE/)
 
-I am a web developer dedicated to building innovative and efficient web applications. Currently, I am based in an undisclosed location, and I enjoy exploring new technologies and contributing to open-source projects.
 
-## Skills & Technologies
+### *Version Control & Tools*  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-css,html
+## 👨‍💻 Currently Learning
+- Advanced concepts in *JavaScript (ES6+)*  
+- Mastering responsive design using *Tailwind CSS* and *Bootstrap*  
+- Building dynamic user interfaces with *JavaScript*  
+- Exploring *CSS3* animations and transitions  
+- Improving web performance and accessibility  
 
-## Top Projects
 
-- [Zomato](https://github.com/Ramishwargaud123/zomato) - A web application showcasing restaurant data. **Stars:** 0, **Language:** CSS
-- [To-Do List](https://github.com/Ramishwargaud123/to-do-list) - A simple task management tool. **Stars:** 0, **Language:** CSS
-- [Spotify](https://github.com/Ramishwargaud123/spotify) - A project to display music data. **Stars:** 0, **Language:** HTML
+## 🌱 My Development Journey
+I'm a continuous learner who is always eager to stay ahead of the curve. Whether it's trying out *new frameworks, experimenting with **backend solutions, or working on **real-time applications*, I'm always excited to push the boundaries of what I can do.
 
-## GitHub Stats
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-292ba9308)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-Code-01)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/invites/contact/?igsh=pq1wiyghqpoj&utm_content=j135rqw](https://www.instagram.com/a._k._y._121/)
+)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
-⭐ **Public Repositories:** 2  
-👥 **Followers:** 2  
-➡️ **Following:** 1  
+## ✨ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramishwargaud123&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- **Pushed to [Zomato](https://github.com/Ramishwargaud123/zomato)** - Renamed `Ramishwar.html` to `index.html`  
-- **Pushed to [To-Do List](https://github.com/Ramishwargaud123/to-do-list)** - Updated task management features  
-- **Created [Spotify](https://github.com/Ramishwargaud123/spotify)** repository
-
-## Latest Blog Posts
-
-No blog posts available yet.
-
-## Connect with Me
-
-{}
+---
